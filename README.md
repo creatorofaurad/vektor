@@ -66,3 +66,5 @@ Delegates a computational payload to the optimal node in the mesh.
 - `src/simd_buffer.zig`: Zero-copy binary serialization buffer.
 - `build.zig`: Native Zig build script.
 <!-- peer mesh v1.0 -->
+
+<!-- commit step 4: 788 -->
