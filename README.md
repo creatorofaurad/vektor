@@ -65,3 +65,4 @@ Delegates a computational payload to the optimal node in the mesh.
 - `src/vektor_kernel.zig`: Main P2P Socket & Task Delegation Engine.
 - `src/simd_buffer.zig`: Zero-copy binary serialization buffer.
 - `build.zig`: Native Zig build script.
+<!-- peer mesh v1.0 -->
