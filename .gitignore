@@ -1,0 +1,14 @@
+# Zig Build Artifacts
+.zig-cache/
+zig-out/
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.lib
+
+# Environment & Scratch Files
+.DS_Store
+*.tmp
+vektor.json
